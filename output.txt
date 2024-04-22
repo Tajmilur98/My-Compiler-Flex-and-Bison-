@@ -1,0 +1,73 @@
+ header files included.
+
+Valid declaration!
+
+Value of the variable r:  300	Print successful.
+FUNC Declared!
+
+
+Valid declaration!
+
+Valid declaration!
+
+Valid declaration!
+Scan is successful.
+
+Printing the string "The number is : "Print successful.
+
+Value of the variable a:  0	Print successful.
+
+Value of the variable a:  5	Print successful.
+
+Value of the variable c:  10	Print successful.
+
+Valid declaration!
+Value of Sin(90) is 1.000000
+
+Valid declaration!
+Value of Sin(5) is 0.087156
+Value of Cos(5) is 0.996195
+Value of Tan(5) is 0.087489
+Value of Log10(5) is 0.698970
+Value of ln(5) is 1.609438
+Conditional statement successfully complied.
+Conditional statement successfully complied.
+Conditional statement successfully complied.
+
+Valid declaration!
+expr in for loop increasing 0
+expr in for loop increasing 1
+expr in for loop increasing 2
+expr in for loop increasing 3
+expr in for loop increasing 4
+expr in for loop increasing 5
+
+expr in for loop increasing 10
+expr in for loop increasing 8
+expr in for loop increasing 6
+expr in for loop increasing 4
+expr in for loop increasing 2
+expr in for loop increasing 0
+
+
+Value of the variable a:  5	Print successful.
+While loop is executing value of variable a : 7
+While loop is executing value of variable a : 9
+
+Value of the variable a:  9	Print successful.
+While loop is executing value of variable a : 7
+While loop is executing value of variable a : 5
+While loop is executing value of variable a : 3
+While loop is executing value of variable a : 1
+
+Valid declaration!
+
+Value of the variable x:  50	Print successful.
+switch VAL:   0
+case VAL:   1
+switch VAL:   0
+case VAL:   0
+
+Executed case 0
+main function compiled successfully.
+program compiled successfully.

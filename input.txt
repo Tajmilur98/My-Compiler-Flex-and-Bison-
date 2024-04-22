@@ -1,0 +1,109 @@
+headerfile<mycode's_IO.h>
+headerfile<mycode's_Lib.h>
+
+Function_of_mycode int usf( p, q)
+{
+    int r #
+    p <- 100 #
+    q <- 200 #
+    r <- p+q #
+    show(r)  #
+}
+
+
+int begin_with()
+{
+    int a,b,c #
+    crt flag  #
+    String_of_mycode str #
+
+    scan(a) #
+    show("The number is : ") #
+    show(a) #
+
+    a <- 5 #
+    show(a) #
+
+    b <- a #
+    c <- a+b #
+    show(c) #
+    
+    int d #
+    d <- a/b #
+    d <- sin_of_mycode(b*c+40) #
+    
+
+   int Sin_a, Cos_a, Tan_a, log_a, ln_a #
+   
+   Sin_a <- sin_of_mycode(a) #
+   Cos_a <- cos_of_mycode(a) #
+   Tan_a <- tan_of_mycode(a) #
+   log_a <- log_of_10(a) #
+   ln_a  <- log_of_e(a) #
+
+   if(a+b = c){
+         d <- 10 #
+   }
+   
+   if(a > b){
+        c <- 10 #
+   }
+   else
+   {
+	c <- 20 #
+   }
+
+    
+   if(a = b){
+        c <- 10 #
+   }
+   elif (a < b)
+   {
+	c <- 5 #
+   }
+   else
+   {
+	c <- 15 #
+   }
+
+   int i #
+   simple_iteration(i<- 0 # i <= 5 # i IncBy 1)
+	{
+	   a <- a+i #
+	}
+
+   simple_iteration(i<- 10 # i >= 0 # i DecBy 2)
+	{
+	   a <- a+i #
+	}
+   
+   as_long_as(a<=10)
+   {
+	show(a) #
+        a IncBy 2 #
+   }
+
+   as_long_as(a>=0)
+   {
+	show(a) #
+        a DecBy 2 #
+   }
+
+    int x #
+    x <- 50 #
+    show(x) #
+
+    button_of_mycode x{
+	key_of_mycode 0:
+		a <- x+1 #
+                cut_it #
+        key_of_mycode 1:
+		a <- x+1 #
+                cut_it #
+        short_ckt:
+    		a <- 10 #
+    }
+
+
+    close_with 0 #
+}
